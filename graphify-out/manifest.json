@@ -1,0 +1,80 @@
+{
+  "ALCOHOL_LOTTERY_RECYCLING_INTEGRATION.md": {
+    "mtime": 1785491410.5238326,
+    "seen": 1789193309.648083,
+    "ast_hash": "3cfd4af5d648235adb8b10ff6fedd6f9",
+    "semantic_hash": ""
+  },
+  "ALCOHOL_REVENUE_FORMALIZATION_STRATEGY.md": {
+    "mtime": 1785491655.0335908,
+    "seen": 1789193309.648086,
+    "ast_hash": "2aed862072b3011ae1057ff74bef1ca8",
+    "semantic_hash": ""
+  },
+  "CAMPAIGN_STRATEGY.md": {
+    "mtime": 1785474237.5147245,
+    "seen": 1789193309.648088,
+    "ast_hash": "7b1fb5b6690cb40203f7b9d46547284e",
+    "semantic_hash": ""
+  },
+  "EXECUTIVE_SUMMARY.md": {
+    "mtime": 1785474376.1603827,
+    "seen": 1789193309.648088,
+    "ast_hash": "c8e84fb9c2729fa6f89cebbd1ca8fbfe",
+    "semantic_hash": ""
+  },
+  "GLOBAL_LOTTERY_RESEARCH.md": {
+    "mtime": 1785474603.308681,
+    "seen": 1789193309.6480892,
+    "ast_hash": "6471aa76caece9be3940346db18aae75",
+    "semantic_hash": ""
+  },
+  "IMPLEMENTATION_ROADMAP.md": {
+    "mtime": 1785474284.8459985,
+    "seen": 1789193309.6480901,
+    "ast_hash": "a0dc0746e805618cc8a47eee3b5a8b16",
+    "semantic_hash": ""
+  },
+  "LOTTERY_RULES.md": {
+    "mtime": 1785474182.8383095,
+    "seen": 1789193309.6480908,
+    "ast_hash": "1aa70e4ce5a84dcd6e61e079f7c837a4",
+    "semantic_hash": ""
+  },
+  "MASTER_IMPLEMENTATION_STRATEGY.md": {
+    "mtime": 1785475217.8373604,
+    "seen": 1789193309.6480908,
+    "ast_hash": "e9c54b63664a478b7c7265cbde396273",
+    "semantic_hash": ""
+  },
+  "NORWAY_RECYCLING_LOTTERY_RESEARCH.md": {
+    "mtime": 1785474827.1455646,
+    "seen": 1789193309.6480918,
+    "ast_hash": "de5d04fe55a536c1debcf583c0b7da65",
+    "semantic_hash": ""
+  },
+  "PROJECT_COMPLETION_SUMMARY.md": {
+    "mtime": 1785475302.6832073,
+    "seen": 1789193309.648093,
+    "ast_hash": "601b5c0a207cd0284da2c7c8f5f8bc9f",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1785474121.2631896,
+    "seen": 1789193309.648093,
+    "ast_hash": "dd187cf328c7bf3cffae8cca860a308e",
+    "semantic_hash": ""
+  },
+  "STATE_REVENUE_AND_BAR_MAINTENANCE_STRATEGY.md": {
+    "mtime": 1785495583.173884,
+    "seen": 1789193309.648094,
+    "ast_hash": "19b8726f6ea2e03d5729f069c90d8077",
+    "semantic_hash": ""
+  },
+  ".github/workflows/quality-gates.yml": {
+    "mtime": 1789577653.6666193,
+    "seen": 1789968743.011884,
+    "ast_hash": "510f7e392c07f0574ba8a559ba2cdf12",
+    "semantic_hash": ""
+  }
+}
