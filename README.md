@@ -1,5 +1,9 @@
 # Jal Jeevan Lottery: Gamified Water Mission Engagement
 
+<!-- how-to-use-with-ai -->
+> **New here?** See [How to use this repo with AI (Claude, Gemini, ChatGPT)](HOW_TO_USE_WITH_AI.md) — clone it, paste it into an AI tool, and ask in plain English.
+
+
 ## Overview
 
 This project analyzes India's lottery ticket ecosystem and proposes a gamified approach to promote the **Jal Jeevan Mission** (JJM)—the government's flagship initiative to provide tap water connections to all households in rural India by 2024 (now extended to 2030).
